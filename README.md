@@ -1,6 +1,6 @@
-<!-- Add a cover image here once you have one:
+<!-- Add a banner image here once we have one:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-NAME/Memory-Palace/main/assets/cover.png" width="800">
+  <img src="https://raw.githubusercontent.com/zommelier/memorypalace/main/assets/banner.png" width="800">
 </p>
 -->
 
