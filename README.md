@@ -1,8 +1,8 @@
-<!-- Add a banner image here once we have one:
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/zommelier/memorypalace/main/assets/banner.png" width="800">
 </p>
--->
+
 
 # Memory Palace 🕮
 ### *Everyone remembers it differently~*
